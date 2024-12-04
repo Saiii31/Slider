@@ -18,4 +18,4 @@ A responsive and interactive slider built using **HTML**, **CSS animations**, an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/slider.git
+   git clone https://github.com/Saiii31/slider.git
